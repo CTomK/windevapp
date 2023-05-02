@@ -1,7 +1,6 @@
 - Table filter, search, modify, insert, print
 - Menu
 - Plans
-- Background image
-- Attach file
+- File attaching
 - Database 
-- File based tables
+- Files based tables
